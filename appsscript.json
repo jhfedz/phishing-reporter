@@ -1,0 +1,18 @@
+{
+  "timeZone": "Etc/GMT",
+  "dependencies": {
+  },
+  "oauthScopes": ["https://www.googleapis.com/auth/gmail.addons.execute", "https://www.googleapis.com/auth/gmail.readonly", "https://www.googleapis.com/auth/gmail.send", "https://mail.google.com/"],
+  "runtimeVersion": "V8",
+  "gmail": {
+    "name": "Phishing Reporter",
+    "logoUrl": "https://raw.githubusercontent.com/jhfedz/phishing-reporter/refs/heads/main/iconPhish.png",
+    "contextualTriggers": [{
+      "unconditional": {
+      },
+      "onTriggerFunction": "getContextualAddOn"
+    }],
+    "primaryColor": "#4285F4",
+    "secondaryColor": "#D3E3FD"
+  }
+}
