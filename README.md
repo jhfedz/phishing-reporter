@@ -1,6 +1,6 @@
 # phishing-reporter
 Google Workspace add-on to report phishing emails.
-From the Gmail toolbar, users are able to report emails a phishing attempts.
+From the Gmail toolbar, users are able to report emails as phishing attempts.
 
 ![image](https://github.com/user-attachments/assets/e992c4b1-5822-4380-9abf-5afd3a385c5c)
 
